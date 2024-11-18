@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "cascadia mono, monospace",
+
+    //font Ligatures
+    "editor.fontLigatures":true,
+
+    //auto save
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "files.autoSaveWhenNoErrors": true,
+
+    // auto closing
+    "editor.autoClosingComments": "always",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+
+}
