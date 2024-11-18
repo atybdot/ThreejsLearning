@@ -6,7 +6,7 @@ const scene = new THREE.Scene();
 // create a geometry
 const geometry = new THREE.BoxGeometry(1, 1, 1);
 
-// create a metrial
+// create a material
 const material = new THREE.MeshBasicMaterial({ color: "red" });
 
 // create a mesh
