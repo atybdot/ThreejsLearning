@@ -1,5 +1,4 @@
-import * as THREE from "three";
-
+import * as THREE from "three"
 // create a scene
 const scene = new THREE.Scene();
 
